@@ -7,3 +7,4 @@
   - [💻 실습코드](https://github.com/naya-h2/Spring-Study/tree/main/core)
 - [스프링 핵심 원리 이해2 - 객체 지향 원리 적용](https://naya-h2.notion.site/1-003b187380ea43e39d7634f42abd063a?pvs=4)
   - [💻 실습코드](https://github.com/naya-h2/Spring-Study/tree/main/core)
+- [스프링 컨테이너와 스프링 빈](https://www.notion.so/naya-h2/b96249c201d24744b13d8e4c049684ef#3caeffc55a234a378dce8ccb44712dbb)
